@@ -1,6 +1,6 @@
 # MCP-Projects
 
-```markdown
+
 # 🚀 MCP-Projects
 
 Welcome to **MCP-Projects**! This repository is dedicated to integrating the MCP (Multi-Channel Platform) framework with various messaging platforms and tools. The primary focus is to facilitate seamless communication and automation across channels, starting with WhatsApp integration using [Claude AI](https://www.anthropic.com/claude) and MCP.
