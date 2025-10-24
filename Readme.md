@@ -28,7 +28,7 @@ Whether you're looking to automate messaging workflows, build conversational bot
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/<your-username>/MCP-Projects.git
+    git clone https://github.com/selvaganesh19/MCP-Projects.git
     cd MCP-Projects
     ```
 
